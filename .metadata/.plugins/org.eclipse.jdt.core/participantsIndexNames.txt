@@ -1,0 +1,7 @@
+INDEX VERSION 1.134
+C:\EclipseWorkspaces\Corejava_Practice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1455152559.index
+\javaapps\src\main\java
+C:\EclipseWorkspaces\Corejava_Practice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2825724885.index
+\Javaapps\src\main\resources
+C:\EclipseWorkspaces\Corejava_Practice\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\385013172.index
+\javaapp\src\main\resources
